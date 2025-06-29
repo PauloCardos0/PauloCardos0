@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Paulo Cardoso
 
-**`Desenvolvedor Front-End em formação Back-End`**
+**`Desenvolvedor Front-End e estudando Back-End`**
 
 Me chamo Paulo Vinicius da Silva Cardoso, tenho 21 anos e sou natural de Garanhuns, Pernambuco. Sou formado em Tecnologia da Informação pelo IFPE - Campus Garanhuns, e atualmente estou cursando Bacharelado em Ciência da Computação pela UFAPE. 
 
