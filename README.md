@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End e estudando Back-End`**
 
-Me chamo Paulo Vinicius da Silva Cardoso, tenho 21 anos e sou natural de Garanhuns, Pernambuco. Sou formado em Tecnologia da Informação pelo IFPE - Campus Garanhuns, e atualmente estou cursando Bacharelado em Ciência da Computação pela UFAPE. 
+Me chamo Paulo Vinicius da Silva Cardoso, tenho 22 anos e sou natural de Garanhuns, Pernambuco. Sou formado em Tecnologia da Informação pelo IFPE - Campus Garanhuns, e atualmente estou cursando Bacharelado em Ciência da Computação pela UFAPE. 
 
 Meu primeiro contato com programação foi ainda no IF, e desde então me apaixonei pelo desenvolvimento web. Atualmente foco meus estudos em tecnologias front-end, mas venho ampliando meus conhecimentos em back-end, com o objetivo de atuar futuramente na área acadêmica e compartilhar conhecimento.
 
